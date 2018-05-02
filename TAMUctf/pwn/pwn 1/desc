@@ -1,0 +1,4 @@
+pwn 1
+25
+
+nc pwn.ctf.tamu.edu 4321

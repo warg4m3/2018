@@ -1,0 +1,4 @@
+pwn 2
+50
+
+nc pwn.ctf.tamu.edu 4322
